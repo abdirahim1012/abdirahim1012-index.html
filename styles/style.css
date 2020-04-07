@@ -1,4 +1,8 @@
-{
+/* you deleted this and because of it, it messed up your styling.
+Also you technically didn't have to go in here to change anything since everything that
+needed to be changed was only in the HTML */
+
+*{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
